@@ -79,7 +79,7 @@ section > p {
 }
 
 .imagem1 {
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('/imagens/background001.jpg');
     background-attachment: fixed;
     background-position: right center;
     background-size: cover;
@@ -89,7 +89,7 @@ section > p {
 }
 
 .imagem2 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('/imagens/background002.jpg');
     background-attachment: fixed;
     background-position: right center;
     background-size: cover;
